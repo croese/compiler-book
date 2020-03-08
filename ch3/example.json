@@ -1,0 +1,11 @@
+{
+    "number": 123,
+    "float": -456.89e10,
+    "string": "hello\nworld",
+    "bool": false,
+    "another": true,
+    "null": null,
+    "nested": {
+        "inner": "data"
+    }
+}
