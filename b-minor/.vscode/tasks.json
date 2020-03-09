@@ -8,9 +8,8 @@
       "args": [
         "-std=c11",
         "main.c",
-        "scanner.c",
         "-o",
-        "minic",
+        "bminc",
         "--debug",
         "-Wall",
         "-Werror"
